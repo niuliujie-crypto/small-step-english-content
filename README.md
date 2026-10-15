@@ -1,2 +1,7 @@
-# small-step-english-content
-Public lesson data and audio for Small Step English. No learner records or personal recordings.
+# 小步英语 · 公开课程内容
+
+仅托管课程JSON和音频，不包含用户进度、个人录音或登录密钥。
+
+当前内容包：第51～55课、100个新增词汇、135段合成音频。内容托管发布不等于微信小程序已正式发布，合法域名和微信审核仍需分别完成。
+
+词汇来源：ECDICT（MIT），见ECDICT-MIT-LICENSE.txt。音频为本地合成，非真人配音，教学内容仍需人工审核。

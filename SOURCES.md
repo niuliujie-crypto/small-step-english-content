@@ -1,0 +1,1 @@
+课程与问答：本项目编写的拓展内容。词汇：ECDICT（MIT），按原词库频次筛选、去重并简化部分专业释义，许可见 licenses/ECDICT-MIT.txt。来源：https://github.com/skywind3000/ECDICT 。音频：meSpeak/eSpeak 本地合成，非真人配音；此包不分发引擎代码。来源：https://www.masswerk.at/mespeak/ 。未经过逐条听感和教学内容验收。
